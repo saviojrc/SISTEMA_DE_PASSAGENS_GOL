@@ -1,0 +1,350 @@
+﻿2019-09-18T17:42:05.3944710-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:42:05.4254765-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:42:05.5264838-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:42:05.5274834-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:42:05.5274834-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:42:10.6655168-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:42:10.6735307-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:42:10.6745371-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:42:30.7601927-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:42:30.7611917-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:42:30.7701919-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:42:30.7701919-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:42:30.7781926-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:42:30.7781926-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:42:32.8033231-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:42:32.8133233-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:42:32.8143243-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174205.html'
+2019-09-18T17:42:32.8203249-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174205.log
+2019-09-18T17:42:32.8243259-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:43:20.0360001-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:43:20.0360001-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:43:20.0530015-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:43:20.0540020-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:43:20.0540020-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:43:31.0597455-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:43:31.0637436-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:43:31.0647417-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:43:42.2380173-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:43:42.2390188-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:43:42.2390188-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:43:42.2400207-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:43:42.2400207-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:43:42.2410183-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:43:43.1690849-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:43:43.1730815-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:43:43.1730815-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174320.html'
+2019-09-18T17:43:43.1810802-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174320.log
+2019-09-18T17:43:43.1820802-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:43:51.4236045-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:43:51.4246050-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:43:51.4346057-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:43:51.4346057-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:43:51.4356057-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:43:57.4432466-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:43:57.4442481-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:43:57.4452501-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:44:05.3689143-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:44:05.3699104-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:44:05.3709177-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:44:05.3709177-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:44:05.3719114-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:44:05.3719114-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:44:06.3279731-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:44:06.3299722-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:44:06.3309727-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174351.html'
+2019-09-18T17:44:06.3389728-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174351.log
+2019-09-18T17:44:06.3409738-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:44:10.7569390-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:44:10.7569390-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:44:10.7679353-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:44:10.7689377-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:44:10.7689377-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:44:20.7804816-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:44:20.7824726-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:44:20.7834759-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:44:28.6865041-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:44:28.6874986-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:44:28.6885092-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:44:28.6885092-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:44:28.6885092-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:44:28.6895512-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:44:29.6598471-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:44:29.6628516-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:44:29.6628516-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174410.html'
+2019-09-18T17:44:29.6698610-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174410.log
+2019-09-18T17:44:29.6718632-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:44:34.4694934-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:44:34.4694934-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:44:34.4805106-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:44:34.4805106-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:44:34.4815124-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:44:45.5077118-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:44:45.5097047-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:44:45.5107056-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:44:53.2821853-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:44:53.2831866-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:44:53.2831866-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:44:53.2841884-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:44:53.2841884-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:44:53.2851898-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:44:54.2445199-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:44:54.2475244-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:44:54.2485252-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174434.html'
+2019-09-18T17:44:54.2565370-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174434.log
+2019-09-18T17:44:54.2575378-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:45:05.0808608-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T17:45:05.0808608-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:45:05.0808608-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:45:05.0938783-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:45:05.0938783-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:45:05.0948835-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:45:19.1178371-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:45:19.1188385-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:45:19.1188385-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:45:53.1269657-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:45:53.1269657-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:45:53.1279690-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:45:53.1279690-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:45:53.1289689-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:45:53.1289689-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:45:54.1433758-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:45:54.1453780-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:45:54.1463798-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174505.html'
+2019-09-18T17:45:54.1533897-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174505.log
+2019-09-18T17:45:54.1543906-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:46:29.7006854-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:46:29.7006854-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:46:29.7116972-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:46:29.7126981-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:46:29.7126981-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:46:43.7362208-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:46:43.7382230-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:46:43.7392322-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:46:51.4806256-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:46:51.4816269-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:46:51.4816269-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:46:51.4826283-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:46:51.4826283-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:46:51.4836291-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:46:52.4790105-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:46:52.4820136-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:46:52.4820136-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174629.html'
+2019-09-18T17:46:52.4900253-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174629.log
+2019-09-18T17:46:52.4910271-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:48:00.7435777-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T17:48:00.7445796-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:48:00.7445796-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:48:00.7546297-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:48:00.7555997-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:48:00.7555997-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:48:07.7785455-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:48:07.7815583-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:48:07.7825469-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:48:16.3546975-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:48:16.3557004-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:48:16.3557004-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:48:16.3567002-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:48:16.3567002-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:48:16.3577011-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:48:17.4552240-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:48:17.4602326-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:48:17.4612550-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174800.html'
+2019-09-18T17:48:17.4812599-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T174800.log
+2019-09-18T17:48:17.4852667-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:52:30.4489968-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T17:52:30.4499973-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:52:30.4499973-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:52:30.4630008-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:52:30.4640004-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:52:30.4689995-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:52:43.4903511-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:52:43.4923521-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:52:43.4933536-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:53:22.8745471-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:53:22.8755467-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:53:22.8765472-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:53:22.8765472-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:53:22.8775467-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:53:22.8775467-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:53:23.8786039-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:53:23.8816044-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:53:23.8816044-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T175230.html'
+2019-09-18T17:53:23.8896050-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T175230.log
+2019-09-18T17:53:23.8906045-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T17:58:18.2312522-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T17:58:18.2322508-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T17:58:18.2322508-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T17:58:18.2442530-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T17:58:18.2452589-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:58:18.2462545-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T17:58:28.2524895-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T17:58:28.2544759-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T17:58:28.2554755-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T17:59:09.8424600-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T17:59:09.8434615-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T17:59:09.8444601-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T17:59:09.8444601-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T17:59:09.8454592-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T17:59:09.8454592-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T17:59:10.8875594-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T17:59:10.8905591-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T17:59:10.8905591-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T175818.html'
+2019-09-18T17:59:10.8975590-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T175818.log
+2019-09-18T17:59:10.8995601-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T18:09:59.3650846-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T18:09:59.3660851-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T18:09:59.3660851-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T18:09:59.3770848-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T18:09:59.3770848-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:09:59.3780888-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T18:10:04.3833069-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T18:10:04.3852996-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T18:10:04.3863035-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:11:23.6987049-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T18:11:23.6997044-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T18:11:23.6997044-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T18:11:23.7007044-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T18:11:23.7017059-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T18:11:23.7017059-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T18:11:24.7477641-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T18:11:24.7497651-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T18:11:24.7497651-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T180959.html'
+2019-09-18T18:11:24.7577648-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T180959.log
+2019-09-18T18:11:24.7617658-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T18:12:38.9288363-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T18:12:38.9288363-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T18:12:38.9298354-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T18:12:38.9418375-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T18:12:38.9418375-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:12:38.9428365-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T18:12:45.9504084-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T18:12:45.9524060-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T18:12:45.9544031-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:12:56.0263762-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T18:12:56.0273772-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T18:12:56.0283767-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T18:12:56.0283767-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T18:12:56.0293762-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T18:12:56.0293762-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T18:12:57.0384345-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T18:12:57.0414355-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T18:12:57.0414355-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T181238.html'
+2019-09-18T18:12:57.0504366-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T181238.log
+2019-09-18T18:12:57.0524361-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T18:14:30.4824636-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T18:14:30.4834641-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T18:14:30.4834641-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T18:14:30.4964636-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T18:14:30.4974646-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:14:30.4984666-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T18:14:40.5112935-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T18:14:40.5133111-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T18:14:40.5143131-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:14:49.8575848-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T18:14:49.8575848-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T18:14:49.8585844-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T18:14:49.8585844-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T18:14:49.8595848-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T18:14:49.8595848-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T18:14:50.8776337-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T18:14:50.8816318-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T18:14:50.8826323-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T181430.html'
+2019-09-18T18:14:50.8936318-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T181430.log
+2019-09-18T18:14:50.8956323-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T18:17:42.4584548-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T18:17:42.4594592-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T18:17:42.4594592-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T18:17:42.4694573-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T18:17:42.4694573-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T18:17:42.4704573-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T18:17:47.4752906-03:00;Thread#16;Info;starting test run
+2019-09-18T18:17:47.4772867-03:00;Thread#16;Info;Discovering target: Default
+2019-09-18T18:17:47.4782867-03:00;Thread#16;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ControleBugs/ControleBugs - 
+#1: Default - 
+#2: ControleBugs - 
+#3: Logar - 
+#4: Login Realizado com Sucesso, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Login+Realizado+com+Sucesso%2c+%27bugtraker%27
+#5: Campos Obrigatorios Nao Informados, '' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campos+Obrigatorios+Nao+Informados%2c+%27%27
+#6: Campo Login ou Senha Invalido, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campo+Login+ou+Senha+Invalido%2c+%27bugtraker%27
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ControleBugs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Quando eu preencho o 'bugtraker' e a 'Resource@123' validos
+Thread#0:T:done: RealizarLoginSteps.QuandoEuPreenchoOEAValidos("bugtraker", "Resource@123") (0,6s)
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:done: RealizarLoginSteps.QuandoSelecionoAOpcaoLogar() (0,2s)
+Thread#0:B:Entao o sistema retornara o sistema apresenta  a funcionalidade de edição de usuários
+Thread#0:T:done: RealizarLoginSteps.EntaoOSistemaRetornaraOSistemaApresentaAFuncionalidadeDeEdicaoDeUsuarios() (0,2s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 7,2934711 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Quando eu não preencho o '' e a ''
+Thread#0:T:done: RealizarLoginSteps.QuandoEuNaoPreenchoO(" e a ") (0,5s)
+Thread#0:B:E tento efetuar login no sistema
+Thread#0:T:done: RealizarLoginSteps.QuandoTentoEfetuarLoginNoSistema() (0,1s)
+Thread#0:B:Entao o sistema retornara a mensagem "Login:campo é obrigatório"
+Thread#0:T:done: RealizarLoginSteps.EntaoOSistemaRetornaraAMensagem("Login:campo é obr...") (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,6806672 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Quando eu preencho o 'bugtraker' e a '123' com valores invalidos
+Thread#0:T:done: RealizarLoginSteps.QuandoEuPreenchoOEAComValoresInvalidos("bugtraker", 123) (0,5s)
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:done: RealizarLoginSteps.QuandoSelecionoAOpcaoLogar() (0,1s)
+Thread#0:B:Entao o sistema aresenta  mensagem "Login ou senha inválidos"
+Thread#0:T:done: RealizarLoginSteps.EntaoOSistemaAresentaMensagem("Login ou senha in...") (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 1,8461827 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-18T18:17:57.3925624-03:00;Thread#16;Info;test run finished
+2019-09-18T18:17:57.3935633-03:00;Thread#16;Info;publishing test results
+2019-09-18T18:17:57.3945638-03:00;Thread#16;Info;test results published
+2019-09-18T18:17:57.3955628-03:00;Thread#16;Info;generating reports
+2019-09-18T18:17:57.3955628-03:00;Thread#16;Info;creating 1 report(s)
+2019-09-18T18:17:57.3965628-03:00;Thread#16;Info;generate Report ReportTemplate.cshtml
+2019-09-18T18:17:58.4446098-03:00;Thread#16;Info;reports generated
+Total: 3
+Succeeded: 3
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-09-18T18:17:58.4486112-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T18:17:58.4486112-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T181742.html'
+2019-09-18T18:17:58.4556098-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T181742.log

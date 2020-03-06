@@ -1,0 +1,96 @@
+﻿2019-09-19T08:22:55.0677469-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-19T08:22:55.1007473-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-19T08:22:55.1017463-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-19T08:22:55.2177537-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-19T08:22:55.2187542-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-19T08:22:55.2187542-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-19T08:23:05.3208043-03:00;Thread#4;Info;starting test run
+2019-09-19T08:23:05.3278055-03:00;Thread#4;Info;Discovering target: Default
+2019-09-19T08:23:05.3288055-03:00;Thread#4;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ControleBugs/ControleBugs - 
+#1: Default - 
+#2: ControleBugs - 
+#3: Logar - 
+#4: Login Realizado com Sucesso, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Login+Realizado+com+Sucesso%2c+%27bugtraker%27
+#5: Campos Obrigatorios Nao Informados, '' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campos+Obrigatorios+Nao+Informados%2c+%27%27
+#6: Campo Login ou Senha Invalido, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campo+Login+ou+Senha+Invalido%2c+%27bugtraker%27
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ControleBugs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Quando eu preencho o 'bugtraker' e a 'Resource@123' validos
+Thread#0:T:done: RealizarLoginSteps.QuandoEuPreenchoOEAValidos("bugtraker", "Resource@123") (0,6s)
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:done: RealizarLoginSteps.QuandoSelecionoAOpcaoLogar() (2,1s)
+Thread#0:B:Entao o sistema retornara o sistema apresenta  a funcionalidade de edição de usuários
+Thread#0:T:done: RealizarLoginSteps.EntaoOSistemaRetornaraOSistemaApresentaAFuncionalidadeDeEdicaoDeUsuarios() (0,2s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 10,0775123 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Quando eu não preencho o '' e a ''
+Thread#0:T:done: RealizarLoginSteps.QuandoEuNaoPreenchoO(" e a ") (0,5s)
+Thread#0:B:E tento efetuar login no sistema
+Thread#0:T:done: RealizarLoginSteps.QuandoTentoEfetuarLoginNoSistema() (0,1s)
+Thread#0:B:Entao o sistema retornara a mensagem "Login:campo é obrigatório"
+Thread#0:T:done: RealizarLoginSteps.EntaoOSistemaRetornaraAMensagem("Login:campo é obr...") (0,1s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,6885692 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Quando eu preencho o 'bugtraker' e a '123' com valores invalidos
+Thread#0:T:done: RealizarLoginSteps.QuandoEuPreenchoOEAComValoresInvalidos("bugtraker", 123) (0,5s)
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:done: RealizarLoginSteps.QuandoSelecionoAOpcaoLogar() (0,1s)
+Thread#0:B:Entao o sistema aresenta  mensagem "Login ou senha inválidos"
+Thread#0:T:done: RealizarLoginSteps.EntaoOSistemaAresentaMensagem("Login ou senha in...") (0,1s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 1,9434491 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-19T08:23:18.2113484-03:00;Thread#4;Info;test run finished
+2019-09-19T08:23:18.2123469-03:00;Thread#4;Info;publishing test results
+2019-09-19T08:23:18.2173490-03:00;Thread#4;Info;test results published
+2019-09-19T08:23:18.2183471-03:00;Thread#4;Info;generating reports
+2019-09-19T08:23:18.2243482-03:00;Thread#4;Info;creating 1 report(s)
+2019-09-19T08:23:18.2243482-03:00;Thread#4;Info;generate Report ReportTemplate.cshtml
+2019-09-19T08:23:19.6464501-03:00;Thread#4;Info;reports generated
+Total: 3
+Succeeded: 3
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-09-19T08:23:19.6524488-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-19T08:23:19.6524488-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-19T082255.html'
+2019-09-19T08:23:19.6594499-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-19T082255.log

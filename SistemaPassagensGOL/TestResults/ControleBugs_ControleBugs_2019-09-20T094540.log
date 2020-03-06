@@ -1,0 +1,183 @@
+﻿2019-09-20T09:43:40.7970743-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-20T09:43:40.8290739-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-20T09:43:40.8300739-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-20T09:43:40.9390814-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T09:43:40.9390814-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-20T09:43:40.9400858-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-20T09:43:53.0255240-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-20T09:43:53.0398529-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-20T09:43:53.0428569-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-20T09:44:03.5832581-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-20T09:44:03.5862586-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-20T09:44:03.5942584-03:00;VSTestExecutionThread;Info;test results published
+2019-09-20T09:44:03.5952584-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-20T09:44:03.6102589-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-20T09:44:03.6102589-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-20T09:44:05.0123687-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-20T09:44:05.0173679-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-20T09:44:05.0173679-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-20T094340.html'
+2019-09-20T09:44:05.0273687-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-20T094340.log
+2019-09-20T09:44:05.0303683-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-20T09:45:40.3597528-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-20T09:45:40.3607533-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-20T09:45:40.3617529-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-20T09:45:40.3767543-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T09:45:40.3767543-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-20T09:45:40.3777544-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-20T09:45:47.3832565-03:00;Thread#15;Info;starting test run
+2019-09-20T09:45:47.3842492-03:00;Thread#15;Info;Discovering target: Default
+2019-09-20T09:45:47.3852399-03:00;Thread#15;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ControleBugs/ControleBugs - 
+#1: Default - 
+#2: ControleBugs - 
+#3: Logar - 
+#4: Login Realizado com Sucesso, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Login+Realizado+com+Sucesso%2c+%27bugtraker%27
+#5: Campos Obrigatorios Nao Informados, '' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campos+Obrigatorios+Nao+Informados%2c+%27%27
+#6: Campo Login ou Senha Invalido, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campo+Login+ou+Senha+Invalido%2c+%27bugtraker%27
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ControleBugs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Quando eu preencho o 'bugtraker' e a 'Resource@123' validos
+Thread#0:T:done: RealizarLoginSteps.QuandoEuPreenchoOEAValidos("bugtraker", "Resource@123") (0,6s)
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:done: RealizarLoginSteps.QuandoSelecionoAOpcaoLogar() (5,3s)
+Thread#0:B:Entao o sistema retornara o sistema apresenta  a funcionalidade de edição de usuários
+Thread#0:T:error: Timed out after 10 seconds
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 22,5766066 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Quando eu preencho o 'bugtraker' e a 'Resource@123' validos
+Thread#0:T:error: Unable to locate element: #campoLogin
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Entao o sistema retornara o sistema apresenta  a funcionalidade de edição de usuários
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0170005 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Quando eu preencho o 'bugtraker' e a 'Resource@123' validos
+Thread#0:T:error: Unable to locate element: #campoLogin
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Entao o sistema retornara o sistema apresenta  a funcionalidade de edição de usuários
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0100033 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Quando eu não preencho o '' e a ''
+Thread#0:T:error: Unable to locate element: #campoLogin
+Thread#0:B:E tento efetuar login no sistema
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Entao o sistema retornara a mensagem "Login:campo é obrigatório"
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0110043 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:B:Quando eu não preencho o '' e a ''
+Thread#0:T:error: Unable to locate element: #campoLogin
+Thread#0:B:E tento efetuar login no sistema
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Entao o sistema retornara a mensagem "Login:campo é obrigatório"
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0090052 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:B:Quando eu não preencho o '' e a ''
+Thread#0:T:error: Unable to locate element: #campoLogin
+Thread#0:B:E tento efetuar login no sistema
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Entao o sistema retornara a mensagem "Login:campo é obrigatório"
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0130024 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Quando eu preencho o 'bugtraker' e a '123' com valores invalidos
+Thread#0:T:error: Unable to locate element: #campoLogin
+Thread#0:B:E seleciono a opcao logar
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Entao o sistema aresenta  mensagem "Login ou senha inválidos"
+Thread#0:T:skipped because of previous errors
+Cancelling because configured number of failures reached
+Thread#0: Test #6/0 is finished on thread #0 as Failed within 1,2271251 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-20T09:46:11.3439756-03:00;Thread#15;Info;test run finished
+2019-09-20T09:46:11.3449752-03:00;Thread#15;Info;publishing test results
+2019-09-20T09:46:11.3459747-03:00;Thread#15;Info;test results published
+2019-09-20T09:46:11.3469753-03:00;Thread#15;Info;generating reports
+2019-09-20T09:46:11.3469753-03:00;Thread#15;Info;creating 1 report(s)
+2019-09-20T09:46:11.3479748-03:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2019-09-20T09:46:12.3790545-03:00;Thread#15;Info;reports generated
+Total: 3 (test executions: 7)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 3
+2019-09-20T09:46:12.3820556-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-20T09:46:12.3820556-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-20T094540.html'
+2019-09-20T09:46:12.3910563-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-20T094540.log

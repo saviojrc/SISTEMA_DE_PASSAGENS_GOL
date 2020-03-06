@@ -1,0 +1,33 @@
+﻿2020-02-23T22:29:56.0975921-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2020-02-23T22:29:56.1045344-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\packages\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-02-23T22:29:56.2825241-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-02-23T22:29:56.2825241-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll
+2020-02-23T22:29:56.2835236-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2020-02-23T22:30:09.6127215-03:00;Thread#13;Info;starting test run
+2020-02-23T22:30:09.6537170-03:00;Thread#13;Info;Discovering target: Default
+Test Suite Dump
+#0: ControleBugs/ControleBugs - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2020-02-23T22:30:10.1476895-03:00;Thread#13;Info;test run finished
+2020-02-23T22:30:10.1486875-03:00;Thread#13;Info;publishing test results
+2020-02-23T22:30:10.2706824-03:00;Thread#13;Info;test results published
+2020-02-23T22:30:10.2716823-03:00;Thread#13;Info;generating reports
+2020-02-23T22:30:10.2966807-03:00;Thread#13;Info;creating 1 report(s)
+2020-02-23T22:30:10.2966807-03:00;Thread#13;Info;generate Report ReportTemplate.cshtml
+2020-02-23T22:30:18.4811868-03:00;Thread#13;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2020-02-23T22:30:18.4862433-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-02-23T22:30:18.4862433-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\TestResults\ControleBugs_ControleBugs_2020-02-23T222956.html'
+2020-02-23T22:30:18.4931952-03:00;VSTestExecutionThread;Info;Log file: file:///C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\TestResults\ControleBugs_ControleBugs_2020-02-23T222956.log

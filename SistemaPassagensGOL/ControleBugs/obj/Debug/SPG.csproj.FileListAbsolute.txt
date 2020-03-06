@@ -1,0 +1,190 @@
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\Default.srprofile
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll.config
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.pdb
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\Newtonsoft.Json.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\System.ValueTuple.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecFlow.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.Support.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\WindowsInput.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\Gherkin.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\System.ValueTuple.xml
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.xml
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.Support.xml
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\WindowsInput.xml
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.csprojAssemblyReference.cache
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.csproj.CopyComplete
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.dll
+C:\INETPUB\SpeckFlow_Selenium\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.pdb
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\chromedriver.exe
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\Default.srprofile
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll.config
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.pdb
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\System.ValueTuple.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.Support.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\WindowsInput.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\Gherkin.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\System.ValueTuple.xml
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.xml
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.Support.xml
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\bin\Debug\WindowsInput.xml
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.dll
+C:\Users\Sávio\Documents\Visual Studio 2015\Projects\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.pdb
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\chromedriver.exe
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\Default.srprofile
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll.config
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SPG.pdb
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\System.ValueTuple.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.Support.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\WindowsInput.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\Gherkin.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\System.ValueTuple.xml
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.xml
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\WebDriver.Support.xml
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\bin\Debug\WindowsInput.xml
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.dll
+C:\Users\Sávio\Source\Repos\selenium.webdriver.speckflow\SistemaPassagensGOL\ControleBugs\obj\Debug\SPG.pdb

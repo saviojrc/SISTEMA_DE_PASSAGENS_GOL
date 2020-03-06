@@ -1,0 +1,95 @@
+﻿2019-09-18T13:43:24.7896324-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T13:43:24.9427337-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T13:43:24.9437361-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T13:43:25.0577433-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T13:43:25.0587579-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T13:43:25.0597423-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T13:43:35.1697577-03:00;VSTestExecutionThread;Info;starting test run
+2019-09-18T13:43:35.1767583-03:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-18T13:43:35.1777568-03:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T13:43:35.8408074-03:00;VSTestExecutionThread;Info;test run finished
+2019-09-18T13:43:35.8418021-03:00;VSTestExecutionThread;Info;publishing test results
+2019-09-18T13:43:35.8488012-03:00;VSTestExecutionThread;Info;test results published
+2019-09-18T13:43:35.8498027-03:00;VSTestExecutionThread;Info;generating reports
+2019-09-18T13:43:35.8568019-03:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-09-18T13:43:35.8578053-03:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-09-18T13:43:37.8420118-03:00;VSTestExecutionThread;Info;reports generated
+2019-09-18T13:43:37.8460192-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T13:43:37.8470207-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T134325.html'
+2019-09-18T13:43:37.8560130-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T134325.log
+2019-09-18T13:43:37.8590140-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-09-18T13:45:42.1670005-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-18T13:45:42.1680001-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-09-18T13:45:42.1680001-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\d001461\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-18T13:45:42.1820023-03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-18T13:45:42.1830013-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+2019-09-18T13:45:42.1830013-03:00;VSTestExecutionThread;Info;Profile: ControleBugs
+2019-09-18T13:45:56.1882253-03:00;Thread#16;Info;starting test run
+2019-09-18T13:45:56.1902224-03:00;Thread#16;Info;Discovering target: Default
+2019-09-18T13:45:56.1912224-03:00;Thread#16;Info;Discovering tests from assembly: C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\ControleBugs\bin\Debug\ControleBugs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ControleBugs/ControleBugs - 
+#1: Default - 
+#2: ControleBugs - 
+#3: Logar - 
+#4: Login Realizado com Sucesso, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Login+Realizado+com+Sucesso%2c+%27bugtraker%27
+#5: Campos Obrigatorios Nao Informados, '' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campos+Obrigatorios+Nao+Informados%2c+%27%27
+#6: Campo Login ou Senha Invalido, 'bugtraker' - TestAssembly:ControleBugs/Feature:Logar/Scenario:Campo+Login+ou+Senha+Invalido%2c+%27bugtraker%27
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ControleBugs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as InitializationFailed within 0,1300108 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as InitializationFailed within 0,0030029 seconds
+Thread#0: Test #6/0 is started on thread #0
+Cancelling because configured number of failures reached
+Thread#0: Test #6/0 is finished on thread #0 as InitializationFailed within 0,0040197 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-18T13:45:56.4232465-03:00;Thread#16;Info;test run finished
+2019-09-18T13:45:56.4242304-03:00;Thread#16;Info;publishing test results
+2019-09-18T13:45:56.4252314-03:00;Thread#16;Info;test results published
+2019-09-18T13:45:56.4252314-03:00;Thread#16;Info;generating reports
+2019-09-18T13:45:56.4262314-03:00;Thread#16;Info;creating 1 report(s)
+2019-09-18T13:45:56.4262314-03:00;Thread#16;Info;generate Report ReportTemplate.cshtml
+2019-09-18T13:45:57.4183041-03:00;Thread#16;Info;reports generated
+Total: 3
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 3
+2019-09-18T13:45:57.4212963-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-18T13:45:57.4212963-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\d001461\Documents\Visual Studio 2015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T134542.html'
+2019-09-18T13:45:57.4302955-03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\d001461\Documents\Visual%20Studio%202015\Projects\ControleBugs\TestResults\ControleBugs_ControleBugs_2019-09-18T134542.log
